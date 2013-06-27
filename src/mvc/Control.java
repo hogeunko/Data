@@ -15,7 +15,8 @@ public class Control {
 	}
 	
 	public void insertMake() {
-		
+		unko = new unko;
+		return inko;
 	}
 	
 	public void insertGoods() {
